@@ -12,3 +12,6 @@ __pycache__/
 Thumbs.db
 .vscode/
 .idea/
+
+# Raw catalog source (has internal notes + private contacts) — kept locally, never published
+maanim.json
